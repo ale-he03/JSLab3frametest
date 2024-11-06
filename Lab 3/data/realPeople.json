@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "first_name": "Carlene",
+    "gender": "Female",
+    "email": "ccrack0@dropbox.com"
+  },
+  {
+    "id": 2,
+    "first_name": "Chiquita",
+    "gender": "Female",
+    "email": "crodrigues1@linkedin.com"
+  },
+  {
+    "id": 3,
+    "first_name": "Mitchell",
+    "gender": "Male",
+    "email": "mgathwaite2@google.cn"
+  },
+  {
+    "id": 4,
+    "first_name": "Maighdiln",
+    "gender": "Female",
+    "email": "mtattersill3@slideshare.net"
+  },
+  {
+    "id": 5,
+    "first_name": "Ingrid",
+    "gender": "Female",
+    "email": "ikarpeev4@squarespace.com"
+  },
+  {
+    "id": 6,
+    "first_name": "Karlen",
+    "gender": "Female",
+    "email": "kfirk5@cbslocal.com"
+  }
+]
